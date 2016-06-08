@@ -1,2 +1,2 @@
 
-This directory will contain all the uploaded files.
+This directory will contain all the uploaded images.
